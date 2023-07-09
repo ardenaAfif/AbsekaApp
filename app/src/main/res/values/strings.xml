@@ -13,7 +13,13 @@
     <string name="late">Terlambat</string>
     <string name="home">Beranda</string>
     <string name="location">Lokasi</string>
-    <string name="user">User</string>
-    <!-- TODO: Remove or change this placeholder text -->
-    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="profile">Profil</string>
+
+    <string name="unida">Universitas Darussalam Gontor</string>
+    <string name="time_blm_absen">-</string>
+    <string name="user_name">Ardena Afif Pratama</string>
+    <string name="update_account">Perbarui Akun</string>
+    <string name="logout">Keluar</string>
+    <string name="account">Akun</string>
+    <string name="contact_us">Hubungi Kami</string>
 </resources>

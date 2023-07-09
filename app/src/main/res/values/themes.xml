@@ -1,10 +1,12 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Abseka" parent="Theme.Material3.Light.NoActionBar">
-         Customize your light theme here.
          <item name="colorPrimary">@color/blue_light</item>
          <item name="colorOnPrimary">@color/blue_light</item>
-         <item name="colorSurface">@color/blue_dark</item>
+         <item name="colorPrimaryVariant">@color/blue_dark</item>
+
+         <item name="colorSecondary">@color/blue_dark</item>
+         <item name="colorOnSecondary">@color/white</item>
     </style>
 
     <style name="Theme.Abseka" parent="Base.Theme.Abseka" />

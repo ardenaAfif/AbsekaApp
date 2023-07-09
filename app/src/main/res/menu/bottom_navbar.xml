@@ -11,12 +11,12 @@
         android:icon="@drawable/ic_loc"/>
 
     <item
-        android:id="@+id/chatbot"
+        android:id="@+id/rekap"
         android:title="@string/rekapan"
         android:icon="@drawable/ic_calendar"/>
 
     <item
-        android:id="@+id/reflection"
-        android:title="@string/user"
+        android:id="@+id/profile"
+        android:title="@string/profile"
         android:icon="@drawable/ic_user"/>
 </menu>

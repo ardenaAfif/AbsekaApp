@@ -22,7 +22,6 @@
         android:layout_height="wrap_content"
         android:layout_gravity="bottom"
         android:backgroundTint="@color/blue_light"
-        app:fabCradleMargin="10dp"
         app:fabCradleRoundedCornerRadius="50dp"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintEnd_toEndOf="parent"
