@@ -1,3 +1,19 @@
 <resources>
     <string name="app_name">Abseka</string>
+
+    <string name="date_format">Senin, 12 Juli 2023</string>
+    <string name="welcome_salam">Assalamu\'alaikum %s</string>
+    <string name="time_datang">07.23</string>
+    <string name="pulang">Pulang</string>
+    <string name="datang">Datang</string>
+    <string name="rekapan">Rekapan</string>
+
+    <string name="hadir">Hadir</string>
+    <string name="ghaib">Ghaib</string>
+    <string name="late">Terlambat</string>
+    <string name="home">Beranda</string>
+    <string name="location">Lokasi</string>
+    <string name="user">User</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
