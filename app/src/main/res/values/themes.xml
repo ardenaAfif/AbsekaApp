@@ -1,14 +1,33 @@
 <resources xmlns:tools="http://schemas.android.com/tools">
     <!-- Base application theme. -->
     <style name="Base.Theme.Abseka" parent="Theme.Material3.Light.NoActionBar">
-         <item name="colorPrimary">@color/blue_light</item>
-         <item name="colorOnPrimary">@color/blue_light</item>
-         <item name="colorPrimaryVariant">@color/blue_dark</item>
+        <item name="colorPrimary">@color/blue_light</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="colorPrimaryVariant">@color/blue_dark</item>
 
-         <item name="colorSecondary">@color/blue_dark</item>
-         <item name="colorOnSecondary">@color/white</item>
+        <item name="colorSecondary">@color/blue_dark</item>
+        <item name="colorSecondaryContainer">@color/transparant</item>
+        <item name="colorOnSecondary">@color/blue_light</item>
     </style>
 
     <style name="Theme.Abseka" parent="Base.Theme.Abseka" />
+
+    <style name="DialogTheme" parent="ThemeOverlay.MaterialComponents.Dialog.Alert">
+        <item name="colorSurface">@color/white</item>
+        <item name="android:background">@color/white</item>
+        <item name="alertDialogStyle">@style/MaterialAlertDialog.Rounded</item>
+    </style>
+
+    <style name="MaterialAlertDialog.Rounded" parent="MaterialAlertDialog.MaterialComponents">
+        <item name="shapeAppearance">@style/ShapeAppearance.MaterialAlertDialog.Rounded</item>
+    </style>
+
+    <style name="ShapeAppearance.MaterialAlertDialog.Rounded" parent="">
+        <item name="cornerSize">16dp</item>
+    </style>
+    
+    <style name="BlueFriday">
+        <item name="android:textColor">@color/blue_dark</item>
+    </style>
 
 </resources>

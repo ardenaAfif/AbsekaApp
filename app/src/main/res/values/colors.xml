@@ -12,6 +12,10 @@
     <color name="green_500">#AEB745</color>
     <color name="green_100">#E6FBF0</color>
 
-    <color name="transparant">#05F5F5F5</color>
+    <color name="transparant">#00F5F5F5</color>
+
+    <color name="date_true">#2c2e31</color>
+    <color name="date_false">#c6c9cf</color>
+    <color name="dot">#1de9b6</color>
 
 </resources>

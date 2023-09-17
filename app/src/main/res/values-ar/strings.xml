@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_format">الاثنين ,١٢ يوليو ٢٠٢٣</string>
+    <string name="welcome_salam">"السلام عليكم "</string>
+    <string name="time_datang">-</string>
+    <string name="pulang">رُجُوْع</string>
+    <string name="datang">مَجِيْئًا</string>
+    <string name="rekapan">خلاصة</string>
+
+    <string name="hadir">حاضر</string>
+    <string name="ghaib">غائب</string>
+    <string name="late">متأخر</string>
+    <string name="home">Home</string>
+    <string name="location">Location</string>
+    <string name="profile">Profile</string>
+
+    <string name="unida">جامعة دار السلام</string>
+    <string name="update_account">تحديثات الحساب</string>
+    <string name="logout">الخروج</string>
+    <string name="account">حساب</string>
+    <string name="contact_us">اتصل بنا</string>
+    <string name="about_us">معلومات عنا</string>
+    <string name="change_language">تغيير اللغة</string>
+
+    <string name="welcome">أهلا و سهلا</string>
+    <string name="login_with_siakad">تسجيل الدخول بحساب SIAKAD</string>
+    <string name="login">تسجيل الدخول</string>
+    <string name="login_with">أو قم بتسجيل الدخول باستخدام</string>
+    <string name="password">كلمة المرور</string>
+    <string name="enter_email">أدخل Email</string>
+    <string name="choose_language">اختر اللغة</string>
+    <string name="indonesia">Indonesian</string>
+    <string name="arabiyah">العربية</string>
+    <string name="language">English</string>
+    <string name="settings">إعدادات</string>
+
+    <string name="not_ready">الميزة ليست جاهزة بعد</string>
+
+    <string name="info_language">هذا التطبيق متاح باللغتين الإنجليزية والإندونيسية ، قم بتغيير إعدادات اللغة أدناه.</string>
+    <string name="today">Today</string>
+    <string name="success_absen">الحضور بنجاح</string>
+    <string name="not_yet_absent">لم يغيب بعد</string>
+    <string name="office_hour">ساعات العمل خارج المكتب</string>
+    <string name="klik_absen_first">First Arrival Attendance</string>
+
+</resources>

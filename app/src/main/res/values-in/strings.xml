@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="date_format">Senin, 12 Juli 2023</string>
+    <string name="welcome_salam">Assalamu\'alaikum</string>
+    <string name="time_datang">-</string>
+    <string name="pulang">Pulang</string>
+    <string name="datang">Datang</string>
+    <string name="rekapan">Rekapan</string>
+
+    <string name="hadir">Hadir</string>
+    <string name="ghaib">Ghaib</string>
+    <string name="late">Terlambat</string>
+    <string name="home">Beranda</string>
+    <string name="location">Lokasi</string>
+    <string name="profile">Profil</string>
+
+    <string name="unida">Universitas Darussalam Gontor</string>
+    <string name="update_account">Perbarui Akun</string>
+    <string name="logout">Keluar</string>
+    <string name="account">Akun</string>
+    <string name="contact_us">Hubungi Kami</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="about_us">Tentang Kami</string>
+
+    <string name="welcome">Selamat Datang</string>
+    <string name="login_with_siakad">Masuk dengan akun SIAKAD</string>
+    <string name="login">Masuk</string>
+    <string name="login_with">Atau masuk dengan</string>
+    <string name="password">Password</string>
+    <string name="enter_email">Masukkan Email</string>
+    <string name="choose_language">Pilih Bahasa</string>
+    <string name="indonesia">Indonesia</string>
+    <string name="arabiyah">العربية</string>
+    <string name="language">English</string>
+    <string name="settings">Pengaturan</string>
+
+    <string name="not_ready">Fitur ini belum tersedia</string>
+
+
+    <string name="info_language">Aplikasi ini tersedia dalam bahasa indonesia dan inggris, ganti bahasa dengan pengaturan dibawah.</string>
+    <string name="today">Hari ini</string>
+    <string name="success_absen">Antum berhasil absen</string>
+    <string name="not_yet_absent">Belum Absen</string>
+    <string name="office_hour">Outside office hours</string>
+    <string name="klik_absen_first">First Arrival Attendance</string>
+
+</resources>

@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1087837938852",
+    "firebase_url": "https://abseka-e601c-default-rtdb.firebaseio.com",
+    "project_id": "abseka-e601c",
+    "storage_bucket": "abseka-e601c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087837938852:android:e2cbf32698cbff1936b231",
+        "android_client_info": {
+          "package_name": "com.android.abseka"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087837938852-fs54hepljvuhaadj5ihm8h26lk6s64at.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.abseka",
+            "certificate_hash": "4684a00c3ea8af86c12a0ef836f85f70158f0610"
+          }
+        },
+        {
+          "client_id": "1087837938852-anmgs65kcb66fdrq3clr99v60cgrbcac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_x-YYztiR8Wpdr-c5j3k0BX0dUb5434E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087837938852-anmgs65kcb66fdrq3clr99v60cgrbcac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
